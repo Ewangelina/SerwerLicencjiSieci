@@ -1,0 +1,22 @@
+{ 
+  "licences": [ 
+    { 
+      "LicenceUserName": "Radek", 
+      "Licence": 1, 
+      "IPadresses": ["10.0.0.0/24", "192.168.56.0/26"], 
+      "ValidationTime": 5 
+    }, 
+    { 
+      "LicenceUserName": "Guest", 
+      "Licence": 2, 
+      "IPadresses": ["any"], 
+      "ValidationTime": 10
+    }, 
+    { 
+      "LicenceUserName": "Admin", 
+      "Licence": 0, 
+      "IPadresses": ["0.0.0.0/32"], 
+      "ValidationTime": 0 
+    } 
+  ] 
+} 
